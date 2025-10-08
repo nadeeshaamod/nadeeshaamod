@@ -5,7 +5,7 @@
 </p> 
 
 ## Who am I? 
-[![Profile views](https://komarev.com/ghpvc/?username=nadeeshaamod&label=Profile%20views)](https://github.com/nadeeshaamod)
+
 
 - 👋 Hi, I’m @nadeeshaamod
   
