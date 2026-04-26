@@ -11,7 +11,7 @@
   
 - 👀 I’m interested in Coding
   
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning App Development
 
 - 🎓 I’m undergraduate at SLTC
    
